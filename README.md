@@ -18,3 +18,5 @@
 - Weakly Supervised Object Detection
 
 - Zero-shot Object Detection
+
+- CNN-Transformer
