@@ -1,0 +1,494 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <meta charset="utf-8" />
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-36484257-22", {"cookieDomain":"auto"});ga("require", "displayfeatures");(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PFSKTRQW');ga("set", "page", "/404.html?page=" + document.location.pathname + document.location.search + "&from=" + document.referrer);ga("send", "pageview");</script>
+<meta name="Generator" content="Drupal 8 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+<meta http-equiv="x-ua-compatible" content="ie=edge" />
+<link rel="shortcut icon" href="/themes/custom/bootstrap_cemse/favicon.ico" type="image/vnd.microsoft.icon" />
+<script>window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};</script>
+<style>.addtoany_list a {
+  width: auto !important;
+  height: 20px !important;
+}
+.addtoany_list a span {
+  display: block !important;
+}
+
+.addtoany_list a svg {
+  vertical-align: inherit !important;
+}</style>
+
+    <title>Page not found | IVUL | Image and Video Understanding Lab</title>
+    <link rel="stylesheet" media="all" href="/core/modules/system/css/components/ajax-progress.module.css?sl5rup" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/align.module.css?sl5rup" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/autocomplete-loading.module.css?sl5rup" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/fieldgroup.module.css?sl5rup" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/container-inline.module.css?sl5rup" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/clearfix.module.css?sl5rup" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/details.module.css?sl5rup" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/hidden.module.css?sl5rup" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/item-list.module.css?sl5rup" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/js.module.css?sl5rup" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/nowrap.module.css?sl5rup" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/position-container.module.css?sl5rup" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/progress.module.css?sl5rup" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/reset-appearance.module.css?sl5rup" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/resize.module.css?sl5rup" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/sticky-header.module.css?sl5rup" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-counter.css?sl5rup" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-report-counters.css?sl5rup" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-report-general-info.css?sl5rup" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/tabledrag.module.css?sl5rup" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/tablesort.module.css?sl5rup" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/tree-child.module.css?sl5rup" />
+<link rel="stylesheet" media="all" href="/core/modules/views/css/views.module.css?sl5rup" />
+<link rel="stylesheet" media="all" href="/modules/contrib/addtoany/css/addtoany.css?sl5rup" />
+<link rel="stylesheet" media="all" href="/core/modules/layout_discovery/layouts/onecol/onecol.css?sl5rup" />
+<link rel="stylesheet" media="all" href="/themes/custom/bootstrap_cemse/css/style.css?sl5rup" />
+<link rel="stylesheet" media="all" href="//use.fontawesome.com/releases/v5.0.13/css/all.css" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap_barrio/css/colors/messages/messages-light.css?sl5rup" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap_barrio/css/components/affix.css?sl5rup" />
+<link rel="stylesheet" media="all" href="/themes/custom/bootstrap_cemse/fonts/roboto_opensans.css?sl5rup" />
+<link rel="stylesheet" media="all" href="//fonts.googleapis.com/css?family=Roboto+Condensed:300,400,400i,700|Roboto:300,400,400i,700" />
+
+    
+<!--[if lte IE 8]>
+<script src="/core/assets/vendor/html5shiv/html5shiv.min.js?v=3.7.3"></script>
+<![endif]-->
+
+  </head>
+  <body class="cemseapp-qa-kaust-edu-sa-ivul layout-no-sidebars has-featured-top cemse-cp-blue-dark path-ivul">
+    <a href="#main-content" class="visually-hidden focusable skip-link">
+      Skip to main content
+    </a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <div id="page-wrapper">
+  <div id="page">
+    <header id="header" class="header" role="banner" aria-label="Site header">
+                        <nav class="navbar navbar-dark bg-primary" id="navbar-top">
+                        
+                <section class="navbar-expand mr-auto font-weight-bold region region-top-header">
+    <nav role="navigation" aria-labelledby="block-cemseiama-menu" id="block-cemseiama" class="block block-menu navigation menu--cemse-i-am-a ml-auto">
+            
+  <h2 class="sr-only" id="block-cemseiama-menu">CEMSE Join Us</h2>
+  
+
+        
+              <ul class="clearfix nav navbar-nav btn-group">
+            <li class="btn-group" role="group" aria-label="CEMSE group">
+                          <li>
+                                <a href="" title="Join Us" class="nav-link py-2 py-md-3" data-toggle="dropdown" aria-expanded="false" aria-haspopup="true">Join Us</a>
+                                <ul class="dropdown-menu">
+                                    <li class="dropdown-item">
+                                <a href="/ivul/study-kaust" title="Study at King Abdullah University of Science and Technology (KAUST)" data-drupal-link-system-path="node/96"><i class="fa fas fa-user-plus" aria-hidden="true"></i> Study at KAUST</a>
+                    </li>
+                            <li class="dropdown-item">
+                                <a href="/ivul/orgunits/student-internship-programs" title="Internships and Visiting Programs" data-drupal-link-system-path="orgunits/student-internship-programs"><i class="fa fas fa-graduation-cap" aria-hidden="true"></i> Internships</a>
+                    </li>
+                            <li class="dropdown-item">
+                                <a href="https://www.kaust.edu.sa/en/study/alumni" title="King Abdullah University of Science and Technology (KAUST) Alumni Community"><i class="fa fas fa-user-graduate" aria-hidden="true"></i> KAUST Alumni Community</a>
+                    </li>
+                            <li class="dropdown-item">
+                                <a href="/ivul/campus-life" title="Campus Life" data-drupal-link-system-path="node/273"><i class="fa fas fa-university" aria-hidden="true"></i> Campus Life</a>
+                    </li>
+                  </ul>
+  
+                    </li>
+                  </li>
+        </ul>
+  
+
+
+  </nav>
+
+  </section>
+
+                              <div class="form-inline navbar-form float-right">
+                    <section class="navbar-expand font-weight-bold region region-top-header-form">
+    <nav role="navigation" aria-labelledby="block-news-menu" id="block-news" class="block block-menu navigation menu--news ml-auto">
+            
+  <h2 class="sr-only" id="block-news-menu">News</h2>
+  
+
+        
+              <ul class="clearfix nav navbar-nav">
+                    <li class="nav-item">
+                          <a href="/ivul/events" title="Events" class="nav-link" data-drupal-link-system-path="events">Events</a>
+              </li>
+                <li class="nav-item">
+                          <a href="/ivul/news" class="nav-link" data-drupal-link-system-path="news">News</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+  </section>
+
+                </div>
+                                  </nav>
+                <nav class="navbar navbar-light bg-light shadow-sm py-md-2 py-1 navbar-expand-xl" id="navbar-main" data-toggle="affix">
+                      <div class="d-flex">
+                          <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#CollapsingNavbar" aria-controls="CollapsingNavbar" aria-expanded="false" aria-label="Toggle navigation"><i class="fas fa-bars"></i></span></button>
+                                <a href="/ivul" title="Home" rel="home" class="navbar-brand d-flex align-items-center">
+              <img src="/themes/custom/bootstrap_cemse/logo.svg" alt="Home" id="site-logo" class="img-fluid d-inline-block align-left"/>
+            <h2 id="site-name" class="site-name h1 mb-0 pl-2 py-0">IVUL</h2>
+            <h6 id="site-name-slogan" class="site-name-slogan d-none d-md-block mb-0 pl-2 py-0">Image and Video Understanding Lab</h6>
+          </a>
+  
+
+            </div>
+                          <div class="collapse navbar-collapse" id="CollapsingNavbar">
+                <div class="ml-auto">
+                  <nav role="navigation" aria-labelledby="block-ivulmainmenu-menu" id="block-ivulmainmenu" class="block block-menu navigation menu--ivul-main-menu ml-auto">
+            
+  <h2 class="sr-only" id="block-ivulmainmenu-menu">IVUL Main Menu</h2>
+  
+
+        
+              <ul class="clearfix nav navbar-nav">
+                    <li class="nav-item">
+                          <a href="https://cemse.kaust.edu.sa/ivul" title="Image and Video Understanding Lab" class="nav-link">  <i class="fa fas fa-home" aria-hidden="true"></i></a>
+              </li>
+                <li class="nav-item menu-item--expanded dropdown">
+                          <a href="" title="People" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-expanded="false" aria-haspopup="true">People</a>
+                        <ul class="dropdown-menu">
+                    <li class="dropdown-item">
+                          <a href="/ivul/people?items_per_page=All" title="All Image and Video Understanding Lab People" data-drupal-link-query="{&quot;items_per_page&quot;:&quot;All&quot;}" data-drupal-link-system-path="people"><i class="fa fas fa-users" aria-hidden="true"></i> All People</a>
+              </li>
+                <li class="dropdown-item">
+                          <a href="/ivul/people/students" title="Students" data-drupal-link-system-path="taxonomy/term/4"><i class="fa fas fa-user-check" aria-hidden="true"></i> Students</a>
+              </li>
+                <li class="dropdown-item">
+                          <a href="/ivul/people/research-scientists" title="Research Scientists" data-drupal-link-system-path="taxonomy/term/2"><i class="fa fas fa-flask" aria-hidden="true"></i> Research Scientists</a>
+              </li>
+                <li class="dropdown-item">
+                          <a href="/ivul/people/research-staff" title="Research Staff at IVUL" data-drupal-link-system-path="taxonomy/term/1094"><i class="fa fas fa-vials" aria-hidden="true"></i> Research Staff</a>
+              </li>
+                <li class="dropdown-item">
+                          <a href="/ivul/people/postdoctoral-fellows" title="Postdoctoral Fellows" data-drupal-link-system-path="taxonomy/term/3"><i class="fa fas fa-vials" aria-hidden="true"></i> Postdoctoral Fellows</a>
+              </li>
+                <li class="dropdown-item">
+                          <a href="https://cemse.kaust.edu.sa/ivul/people/alumni" title="Alumni"><i class="fa fas fa-graduation-cap" aria-hidden="true"></i> Alumni</a>
+              </li>
+                <li class="dropdown-item">
+                          <a href="/ivul/people/former-members" title="Former Members" data-drupal-link-system-path="taxonomy/term/986"><i class="fa fas fa-user-clock" aria-hidden="true"></i> Former Members</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="nav-item">
+                          <a href="/ivul/collaborators-ivul" title="IVUL Collaborators" class="nav-link" data-drupal-link-system-path="node/11083">Collaborators</a>
+              </li>
+                <li class="nav-item">
+                          <a href="/ivul/ivul-publications" title="Publications" class="nav-link" data-drupal-link-system-path="node/11023">Publications</a>
+              </li>
+                <li class="nav-item">
+                          <a href="/ivul/join-us-ivul" title="Join Us IVUL" class="nav-link" data-drupal-link-system-path="node/11135">Join Us</a>
+              </li>
+                <li class="nav-item">
+                          <a href="/ivul/contact-ivul" class="nav-link" data-drupal-link-system-path="node/7866">Contacts</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+
+                </div>
+                            </div>
+                                          </nav>
+          </header>
+                      <div class="hero bg-primary">
+            </div>
+                        <div class="featured-top bg-light">
+            <aside class="featured-top__inner section container-fluid clearfix" role="complementary">
+                <section class="region region-featured-top">
+    <div data-drupal-messages-fallback class="hidden"></div>
+
+  </section>
+
+            </aside>
+          </div>
+                      <div id="main-wrapper" class="layout-main-wrapper clearfix">
+              <div id="main" class="container-fluid">
+          
+          <div class="row row-offcanvas row-offcanvas-left clearfix">
+              <main class="main-content col" id="content" role="main">
+                <section class="section">
+                  <a id="main-content" tabindex="-1"></a>
+                    <section class="region region-content">
+    <div id="block-bootstrap-cemse-content" class="mb-4 block block-system block-system-main-block">
+  
+    
+      <div class="content">
+      The requested page could not be found.
+    </div>
+  </div>
+
+  </section>
+
+                </section>
+              </main>
+                                  </div>
+        </div>
+          </div>
+        <footer class="site-footer bg-gray">
+              <div class="container-fluid">
+                      <div class="site-footer__top row clearfix">
+                <section class="col-md-6 col-lg-3 col-xl-2 offset-xl-2 region region-footer-first">
+    <div id="block-footerfirst" class="mt-3 text-light text-link-warning block block-block-content block-block-content3d4559f7-3b8a-46f8-995b-9381f441d4a8">
+  
+    
+      <div class="content container-fluid">
+            
+      <div class="field field--name-field-body field--type-bricks field--label-hidden field__items">
+              <div><div >
+      
+            <div class="clearfix text-formatted field field--name-field-text field--type-text-long field--label-hidden field__item"><div class="tex2jax_process"><p><a class="text-warning" href="https://cemse.kaust.edu.sa/saml_login">KAUST SSO Login</a></p>
+
+<h6 class="text-uppercase"><a class="text-light h6" href="https://cemse.kaust.edu.sa">CEMSE - Computer, Electrical and Mathematical Sciences and Engineering Division</a></h6>
+
+<ul class="list-unstyled">
+	<li><a class="text-warning" href="https://cemse.kaust.edu.sa/amcs">Applied Mathematics and Computational Sciences (AMCS)</a></li>
+	<li><a class="text-warning" href="https://cemse.kaust.edu.sa/cs">Computer Science (CS)</a></li>
+	<li><a class="text-warning" href="https://cemse.kaust.edu.sa/ee">Electrical&nbsp;and Computer Engineering&nbsp;(ECE)</a></li>
+	<li><a class="text-warning" href="https://cemse.kaust.edu.sa/stat">Statistics (STAT)</a></li>
+</ul>
+
+<h6 class="text-uppercase"><a class="text-light h6" href="https://bese.kaust.edu.sa">Biological and Environmental Sciences Engineering Division</a></h6>
+
+<ul class="list-unstyled">
+	<li><a class="text-warning" href="https://bese.kaust.edu.sa/study/Pages/Bioscience.aspx">Bioscience (B)</a></li>
+	<li><a class="text-warning" href="https://bese.kaust.edu.sa/study/bioengineering">Bioengineering (BioE)</a></li>
+	<li><a class="text-warning" href="https://bese.kaust.edu.sa/study/Pages/EnSE.aspx">Environmental Science and Engineering (EnSE)</a></li>
+	<li><a class="text-warning" href="https://bese.kaust.edu.sa/study/Pages/MarS.aspx">Marine Science (MarS)</a></li>
+	<li><a class="text-warning" href="https://bese.kaust.edu.sa/study/Pages/PS.aspx">Plant Science (PS)</a></li>
+</ul>
+
+<h6 class="text-uppercase"><a class="text-light h6" href="https://pse.kaust.edu.sa">Physical Science and Engineering Division</a></h6>
+
+<ul class="list-unstyled">
+	<li><a class="text-warning" href="https://pse.kaust.edu.sa/Pages/Applied-Physics.aspx">Applied Physics (AP)</a></li>
+	<li><a class="text-warning" href="https://cbe.kaust.edu.sa">Chemical and Biological Engineering (CBE)</a></li>
+	<li><a class="text-warning" href="https://chems.kaust.edu.sa">Chemical Science (ChemS)</a></li>
+	<li><a class="text-warning" href="https://erse.kaust.edu.sa">Earth Science and Engineering (ErSE)</a></li>
+	<li><a class="text-warning" href="https://erpe.kaust.edu.sa">Energy Resources and Petroleum Engineering (ErPE)</a></li>
+	<li><a class="text-warning" href="https://mse.kaust.edu.sa">Material Science and Engineering (MSE)</a></li>
+	<li><a class="text-warning" href="https://me.kaust.edu.sa">Mechanical Engineering (ME)</a></li>
+</ul>
+</div></div>
+      
+
+</div>
+<div >
+      
+            <div class="clearfix text-formatted field field--name-field-text field--type-text-long field--label-hidden field__item"><!--LeadSquared Tracking Code Start-->
+<script type="text/javascript" src="https://web.mxradon.com/t/Tracker.js"></script>
+<script type="text/javascript">
+      pidTracker('53039');
+</script>
+<!--LeadSquared Tracking Code End--></div>
+      
+
+</div>
+</div>
+          </div>
+  
+
+    </div>
+  </div>
+
+  </section>
+
+                <section class="col-md-6 col-lg-3 col-xl-2 region region-footer-second">
+    <div id="block-footersecond" class="mt-3 text-light text-link-warning block block-block-content block-block-content66fcbeb3-15a7-4f15-9e8a-252613d07418">
+  
+    
+      <div class="content container-fluid">
+            
+      <div class="field field--name-field-body field--type-bricks field--label-hidden field__items">
+              <div><div >
+      
+            <div class="clearfix text-formatted field field--name-field-text field--type-text-long field--label-hidden field__item"><div class="tex2jax_process"><h6 class="text-uppercase">Study</h6>
+
+<ul class="list-unstyled">
+	<li><a href="https://admissions.kaust.edu.sa/">Apply to KAUST</a></li>
+	<li><a href="https://www.kaust.edu.sa/en/study/masters-program">MS&nbsp;Degree</a></li>
+	<li><a href="https://www.kaust.edu.sa/en/study/phd-program">PhD&nbsp;Degree</a></li>
+	<li><a href="https://www.kaust.edu.sa/en/study/idb-kaust-scholarship">IDB-KAUST Scholarship</a></li>
+</ul>
+
+<h6 class="text-uppercase">Expanding Knowledge</h6>
+
+<ul class="list-unstyled">
+	<li><a href="https://enrichment.kaust.edu.sa">Enrichment Program Office</a></li>
+	<li><a href="https://academicaffairs.kaust.edu.sa/alumni">Alumni Affairs</a></li>
+	<li><a href="http://library.kaust.edu.sa/">KAUST Library</a></li>
+</ul>
+
+<h6 class="text-uppercase">Student Affairs</h6>
+
+<ul class="list-unstyled">
+	<li><a href="https://registrar.kaust.edu.sa/">Registrar’s Office</a></li>
+	<li><a href="https://academicaffairs.kaust.edu.sa/graduate-affairs/developmentandservices/Pages/Development%20and%20Services.aspx">Graduate Services</a></li>
+</ul>
+
+<h6 class="text-uppercase">Living in KAUST</h6>
+
+<ul class="list-unstyled">
+	<li><a href="https://www.kaust.edu.sa/en/live/community-life">Our Community</a></li>
+	<li><a href="https://www.kaust.edu.sa/en/live/school-and-daycare">School and Daycare</a></li>
+	<li><a href="https://www.kaust.edu.sa/en/live/services">Services</a></li>
+	<li><a href="https://www.kaust.edu.sa/en/live/Accommodation">Accommodation</a></li>
+</ul>
+</div></div>
+      
+
+</div>
+</div>
+          </div>
+  
+
+    </div>
+  </div>
+
+  </section>
+
+                <section class="col-md-6 col-lg-3 col-xl-2 region region-footer-third">
+    <div id="block-footerthird" class="mt-3 text-light text-link-warning block block-block-content block-block-contente0876ba3-1176-4ebf-96bf-e90242ee58c9">
+  
+    
+      <div class="content container-fluid">
+            
+      <div class="field field--name-field-body field--type-bricks field--label-hidden field__items">
+              <div><div >
+      
+            <div class="clearfix text-formatted field field--name-field-text field--type-text-long field--label-hidden field__item"><div class="tex2jax_process"><h6 class="text-uppercase">About KAUST</h6>
+
+<ul class="list-unstyled">
+	<li><a href="https://www.kaust.edu.sa/en/about">KAUST History</a></li>
+	<li><a href="https://www.kaust.edu.sa/en/about/videos">Our Videos</a></li>
+	<li><a href="https://www.kaust.edu.sa/en/about/map">Interactive Map (Google Maps)</a></li>
+	<li><a href="https://maps.kaust.edu.sa">Interactive Map (KAUST Intranet)</a></li>
+	<li><a href="https://www.kaust.edu.sa/en/about/administration">KAUST Administration</a></li>
+	<li><a href="https://www.kaust.edu.sa/en/about/green-campus">Our Green Campus</a></li>
+	<li><a href="http://museum.kaust.edu.sa">KAUST Museum</a></li>
+	<li><a href="https://www.kaust.edu.sa/en/research">Research at KAUST</a></li>
+	<li><a href="https://www.kaust.edu.sa/en/innovate">Connecting Research &amp; Industry</a></li>
+	<li><a href="https://www.kaust.edu.sa/en/study/faculty">Faculty</a></li>
+	<li><a href="https://www.kaust.edu.sa/en/about/openings">Careers</a></li>
+	<li><a href="https://www.kaust.edu.sa/en/about/photos">Photo Galleries</a></li>
+	<li><a href="https://www.kaust.edu.sa/en/about/media-relations">Media Relations</a></li>
+	<li><a href="https://www.kaust.edu.sa/en/privacy-policy">Privacy Policy</a></li>
+</ul>
+
+<h6 class="text-uppercase">Latest from KAUST</h6>
+
+<ul class="list-unstyled">
+	<li><a href="https://www.kaust.edu.sa/en/news">KAUST Stories</a></li>
+	<li><a href="https://www.kaust.edu.sa/en/calendar">KAUST Events Calendar</a></li>
+	<li><a href="https://www.kaust.edu.sa/en/about/beacon">The Beacon Newspaper</a></li>
+</ul>
+</div></div>
+      
+
+</div>
+</div>
+          </div>
+  
+
+    </div>
+  </div>
+
+  </section>
+
+                <section class="col-md-6 col-lg-3 col-xl-2 region region-footer-fourth">
+    <div id="block-footerfourthivul" class="mt-3 text-light text-link-warning block block-block-content block-block-content61f1eeb7-b1cf-4f8a-aea9-2431061aef9b">
+  
+    
+      <div class="content container-fluid">
+            
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="tex2jax_process"><h6 class="text-uppercase">Image and Video Understanding Lab</h6>
+<ul class="list-unstyled">
+	<li><a href="#">Our Videos on YouTube</a></li>
+	<li><a href="#">Research at IVUL</a></li>
+	<li><a href="#">IVUL Team</a></li>
+	<li><a href="#">Careers at IVUL</a></li>
+</ul></div></div>
+      
+
+    </div>
+  </div>
+
+  </section>
+
+            </div>
+                                <div class="site-footer__bottom">
+                <section class="text-white region region-footer-fifth">
+    <div class="views-element-container block block-views block-views-blockfooter-copyright-block-footer-copyright" id="block-views-block-footer-copyright-block-footer-copyright">
+  
+    
+      <div class="content">
+      <div><div class="view view-footer-copyright view-id-footer_copyright view-display-id-block_footer_copyright js-view-dom-id-5f1028e9f8feed95fcc4fb0b083265c165bfb36b00d9f18713e7b48f8b04996c">
+  
+    
+      
+      <div class="view-empty">
+      <p class="mb-0 text-align-center small">©2024 King Abdullah University of Science and Technology. All rights reserved. <a href="https://www.kaust.edu.sa/en/privacy-policy">Privacy Policy</a>&nbsp;᛫&nbsp;<a href="https://www.kaust.edu.sa/en/terms-of-use">Terms&nbsp;of&nbsp;Use</a></p>
+    </div>
+  
+          </div>
+</div>
+
+    </div>
+  </div>
+
+  </section>
+
+            </div>
+                  </div>
+          </footer>
+  </div>
+</div>
+
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"ivul\/","currentPath":"","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","google_analytics":{"trackOutbound":true,"trackMailto":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"mathjax":{"config_type":0,"config":{"tex2jax":{"inlineMath":[["$","$"],["\\(","\\)"]],"processEscapes":"true"},"showProcessingMessages":"false","messageStyle":"none"}},"user":{"uid":0,"permissionsHash":"662e767d5a6c1bfd53dd6a3a5a08ed532a52c6e65cfde75bf1f4db7fa1ff815a"}}</script>
+<script src="/core/assets/vendor/domready/ready.min.js?v=1.0.8"></script>
+<script src="/core/assets/vendor/jquery/jquery.min.js?v=3.2.1"></script>
+<script src="/core/assets/vendor/jquery/jquery-extend-3.4.0.js?v=3.2.1"></script>
+<script src="/core/assets/vendor/jquery/jquery-htmlprefilter-3.5.0.js?v=3.2.1"></script>
+<script src="/core/misc/drupalSettingsLoader.js?v=8.7.10"></script>
+<script src="/core/misc/drupal.js?v=8.7.10"></script>
+<script src="/core/misc/drupal.init.js?v=8.7.10"></script>
+<script src="https://static.addtoany.com/menu/page.js" async></script>
+<script src="/modules/contrib/addtoany/js/addtoany.js?v=8.7.10"></script>
+<script src="https://use.fontawesome.com/releases/v5.1.1/js/all.js"></script>
+<script src="https://use.fontawesome.com/releases/v5.1.1/js/v4-shims.js"></script>
+<script src="/modules/contrib/google_analytics/js/google_analytics.js?v=8.7.10"></script>
+<script src="/themes/custom/bootstrap_cemse/js/popper.min.js?v=8.7.10"></script>
+<script src="/themes/custom/bootstrap_cemse/js/bootstrap.min.js?v=8.7.10"></script>
+<script src="/themes/custom/bootstrap_cemse/js/global.js?v=8.7.10"></script>
+<script src="//d39af2mgp1pqhg.cloudfront.net/widget-all.js"></script>
+<script src="//badge.dimensions.ai/badge.js"></script>
+<script src="//d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<script src="/modules/contrib/mathjax/js/config.js?v=8.7.10"></script>
+<script src="https://cdn.jsdelivr.net/npm/mathjax@2/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script src="/modules/contrib/mathjax/js/setup.js?v=8.7.10"></script>
+<script src="/themes/contrib/bootstrap_barrio/js/affix.js?v=8.7.10"></script>
+
+  <script type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=65488138" async></script></body>
+</html>

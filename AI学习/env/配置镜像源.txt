@@ -1,0 +1,15 @@
+对于 windows 平台：
+
+首先，需要在 user 用户目录下，创建一个新的文件夹 pip；
+接着，在 pip 文件夹下，创建一个 pip.txt 文本文件，接着将后缀由 “txt” 改为 “ini”；	
+
+[global]
+index-url = https://pypi.tuna.tsinghua.edu.cn/simple
+[install]
+trusted-host = pypi.tuna.tsinghua.edu.cn
+
+修改完成后，保存即可。
+
+再次启动 cmd，使用 " pip install 库名 " 安装相关库，即可默认使用国内源下载。
+
+注意：需要关闭代理。（网络与Internet---代理---手动关闭）
